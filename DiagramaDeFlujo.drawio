@@ -16,7 +16,7 @@
           <mxGeometry x="270" y="10" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ccXL9rLVVRJ975ft9sJH-14" value="Admin" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="110" width="1870" height="560" as="geometry" />
+          <mxGeometry x="50" y="110" width="1970" height="560" as="geometry" />
         </mxCell>
         <mxCell id="ccXL9rLVVRJ975ft9sJH-0" value="Ingresa al Login" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ccXL9rLVVRJ975ft9sJH-14">
           <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
