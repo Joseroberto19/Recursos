@@ -290,8 +290,14 @@
         <mxCell id="ccXL9rLVVRJ975ft9sJH-87" value="Doctor" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="960" width="1970" height="720" as="geometry" />
         </mxCell>
-        <mxCell id="ccXL9rLVVRJ975ft9sJH-107" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ccXL9rLVVRJ975ft9sJH-87">
+        <mxCell id="ccXL9rLVVRJ975ft9sJH-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ccXL9rLVVRJ975ft9sJH-87" source="ccXL9rLVVRJ975ft9sJH-107" target="ccXL9rLVVRJ975ft9sJH-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ccXL9rLVVRJ975ft9sJH-107" value="Login" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ccXL9rLVVRJ975ft9sJH-87">
           <mxGeometry x="40" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ccXL9rLVVRJ975ft9sJH-110" value="Verifica que se Doctor" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ccXL9rLVVRJ975ft9sJH-87">
+          <mxGeometry x="230" y="45" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ccXL9rLVVRJ975ft9sJH-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ccXL9rLVVRJ975ft9sJH-106" target="ccXL9rLVVRJ975ft9sJH-107">
           <mxGeometry relative="1" as="geometry" />
