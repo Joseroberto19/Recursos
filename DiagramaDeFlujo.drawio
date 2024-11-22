@@ -288,7 +288,16 @@
           <mxGeometry x="100" y="20" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ccXL9rLVVRJ975ft9sJH-87" value="Doctor" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="770" width="1970" height="720" as="geometry" />
+          <mxGeometry x="50" y="960" width="1970" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="ccXL9rLVVRJ975ft9sJH-107" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ccXL9rLVVRJ975ft9sJH-87">
+          <mxGeometry x="40" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ccXL9rLVVRJ975ft9sJH-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ccXL9rLVVRJ975ft9sJH-106" target="ccXL9rLVVRJ975ft9sJH-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ccXL9rLVVRJ975ft9sJH-106" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="830" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
