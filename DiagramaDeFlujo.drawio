@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.8">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1393" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -317,11 +317,23 @@
         <mxCell id="ccXL9rLVVRJ975ft9sJH-117" value="Panel De Doctores" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ccXL9rLVVRJ975ft9sJH-87">
           <mxGeometry x="390" y="170" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ccXL9rLVVRJ975ft9sJH-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ccXL9rLVVRJ975ft9sJH-87" source="ccXL9rLVVRJ975ft9sJH-119" target="ccXL9rLVVRJ975ft9sJH-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ccXL9rLVVRJ975ft9sJH-119" value="Pacientes Citados" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ccXL9rLVVRJ975ft9sJH-87">
           <mxGeometry x="225" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ccXL9rLVVRJ975ft9sJH-121" value="Citas Pendientes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ccXL9rLVVRJ975ft9sJH-87">
           <mxGeometry x="550" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ccXL9rLVVRJ975ft9sJH-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ccXL9rLVVRJ975ft9sJH-87" source="ccXL9rLVVRJ975ft9sJH-124" target="ccXL9rLVVRJ975ft9sJH-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ccXL9rLVVRJ975ft9sJH-124" value="Consultar pacientes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ccXL9rLVVRJ975ft9sJH-87">
+          <mxGeometry x="225" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ccXL9rLVVRJ975ft9sJH-126" value="Edi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ccXL9rLVVRJ975ft9sJH-87">
+          <mxGeometry x="225" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ccXL9rLVVRJ975ft9sJH-108" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ccXL9rLVVRJ975ft9sJH-106" target="ccXL9rLVVRJ975ft9sJH-107">
           <mxGeometry relative="1" as="geometry" />
